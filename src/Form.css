@@ -1,0 +1,11 @@
+.form-wrapper {
+    display: flex;
+    flex-flow: column nowrap;
+    width: 100%;
+    align-items: center;
+}
+
+
+.form-wrapper a {
+    margin: 10px;
+}
