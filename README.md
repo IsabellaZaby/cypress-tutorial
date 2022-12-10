@@ -2,12 +2,12 @@
 
 `npm i` ausführen
 
-### In einem Terminal 
+### In einem Terminal von Projekt Root aus
 
 `npm run start`
 
 
-### In einem weiteren Terminal 
+### In einem weiteren Terminal von Projekt Root aus
 
 `node_modules/.bin/cypress open`
 
